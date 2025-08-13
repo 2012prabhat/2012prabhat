@@ -1,5 +1,7 @@
 # Hi there, I'm Prabhat Kumar 👋
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+
 🚀 **MERN Stack Developer** | Crafting high-performance & scalable web applications
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prabhatkumar.vercel.app)
