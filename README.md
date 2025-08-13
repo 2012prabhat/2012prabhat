@@ -11,7 +11,7 @@
 <tr>
 <td>
 
-- 🔭 I’m currently working on **Care Buddy**  
+- 🔭 I’m currently working on Project Management Tool
 - 🌱 I’m currently learning **DSA with JavaScript**  
 - 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB**  
 - 📫 How to reach me **2012prabhat@gmail.com**  
