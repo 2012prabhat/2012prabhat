@@ -34,6 +34,7 @@
 ---
 
 ## 📌 Projects:
+- [CheckInn](https://github.com/2012prabhat/CheckInn) – Hotel booking app with Stripe integration, JWT authentication, and admin features  
 - [Care Buddy](https://github.com/2012prabhat/CareBuddy) – Appointment booking app with separate portals for users & doctors  
 - [CartHub](https://github.com/2012prabhat/CartHub) – Shopping admin panel frontend in React, Material UI, Bootstrap  
 
@@ -47,9 +48,11 @@
 
 
 ## 📊 GitHub Stats
-![Prabhat's GitHub Streak](https://streak-stats.demolab.com?user=2012prabhat&theme=radical)  
-![Prabhat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=2012prabhat&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2012prabhat&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=2012prabhat&theme=radical" alt="Prabhat's GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=2012prabhat&show_icons=true&theme=radical" alt="Prabhat's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2012prabhat&layout=compact&theme=radical" alt="Top Langs" height="150"/>
+</p>
 
 
 ---
