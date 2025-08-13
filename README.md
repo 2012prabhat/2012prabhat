@@ -1,37 +1,46 @@
-<!-- Profile Header -->
-<h1 align="center">
-  Hi there 👋, I'm Prabhat Kumar
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<h1 align="center">Hi 👋, I'm Prabhat Kumar</h1>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Building+Cool+Projects+Everyday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+%7C+Next.js+Specialist;3%2B+Years+of+Experience;Building+Full-Stack+Apps" alt="Typing SVG" />
 </p>
 
-<!-- About Me -->
-## 🚀 About Me  
-- 💻 Full Stack Developer with **3 years** of experience  
-- 🌱 Currently exploring **Next.js** and **AI-powered applications**  
-- 🛠️ Building real-world projects to sharpen skills  
-- 📫 Reach me at: **2012prabhat@gmail.com**  
+<!-- GIF + Intro -->
+<table>
+<tr>
+<td>
 
-<!-- Skills -->
-## 🛠 Tech Stack
-<p align="left">
+- 🔭 I’m currently working on **Care Buddy**  
+- 🌱 I’m currently learning **DSA with JavaScript**  
+- 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB**  
+- 📫 How to reach me **2012prabhat@gmail.com**  
+- ⚡ Fun fact: *I debug with chai in hand ☕*
+
+</td>
+<td>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding gif" />
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Languages and Tools:
+<p align="left"> 
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,html,css,bootstrap,tailwind,git,github,vscode" />
 </p>
 
-<!-- Featured Projects -->
-## 📌 Featured Projects
-- **[CheckInn](https://github.com/2012prabhat/CheckInn)** – Hotel booking app with Stripe integration  
-- **[Care Buddy](https://github.com/2012prabhat/CareBuddy)** – Appointment management system for doctors & patients  
-- **[PSnipp](https://github.com/2012prabhat/PSnipp)** – Code snippet manager with internal editor  
+---
 
-<!-- Connect -->
-## 📬 Connect with Me
+## 📌 Projects:
+- [Care Buddy](https://github.com/2012prabhat/CareBuddy) – Appointment booking app with separate portals for users & doctors  
+- [CartHub](https://github.com/2012prabhat/CartHub) – Shopping admin panel frontend in React, Material UI, Bootstrap  
+
+---
+
+## 📫 Connect with me:
 <p align="left">
-  <a href="mailto:2012prabhat@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/2012prabhat"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://prabhatkumar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a>
+<a href="https://linkedin.com/in/2012prabhat" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/2012prabhat" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
