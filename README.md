@@ -49,7 +49,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=2012prabhat&theme=radical" alt="Prabhat's GitHub Streak" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=2012prabhat&theme=radical" alt="Prabhat's GitHub Streak" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=2012prabhat&show_icons=true&theme=radical" alt="Prabhat's GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2012prabhat&layout=compact&theme=radical" alt="Top Langs" height="150"/>
 </p>
