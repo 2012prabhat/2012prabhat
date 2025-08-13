@@ -3,13 +3,13 @@
 🚀 **MERN Stack Developer** | Crafting high-performance & scalable web applications
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prabhatkumar.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhatkumar)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/2012prabhat)
 [![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2012prabhat)
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working on **CheckInn (Hotel Booking App)** & **CartHub (Shopping Dashboard)**
+- 🔭 Currently working on **Full-Stack Web Development Projects**
 - 🌱 Learning **Data Structures & Algorithms in JavaScript**
 - 💬 Ask me about **React, Next.js, Node.js, Express, MongoDB**
 - 📫 Reach me at: **2012prabhat@gmail.com**
@@ -47,7 +47,7 @@
 ## 📬 Let's Connect
 💌 **Email:** 2012prabhat@gmail.com  
 🌐 **Portfolio:** [prabhatkumar.vercel.app](https://prabhatkumar.vercel.app)  
-💼 **LinkedIn:** [linkedin.com/in/prabhatkumar](https://www.linkedin.com/in/prabhatkumar)
+💼 **LinkedIn:** [linkedin.com/in/2012prabhat](https://www.linkedin.com/in/2012prabhat)
 
 ---
 
