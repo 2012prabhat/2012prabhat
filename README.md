@@ -1,56 +1,58 @@
 # Hi there, I'm Prabhat Kumar 👋
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-
-🚀 **MERN Stack Developer** | Crafting high-performance & scalable web applications
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prabhatkumar.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/2012prabhat)
-[![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2012prabhat)
+🚀 **MERN Stack Developer** | 💻 Passionate about crafting scalable & high-performance web applications
 
 ---
 
-## 👨‍💻 About Me
-- 🔭 Currently working on **Full-Stack Web Development Projects**
-- 🌱 Learning **Data Structures & Algorithms in JavaScript**
-- 💬 Ask me about **React, Next.js, Node.js, Express, MongoDB**
-- 📫 Reach me at: **2012prabhat@gmail.com**
-- ⚡ Fun fact: *I debug with `console.log()` more than I sleep 😅*
+## 🧑‍💻 About Me
+- 🌱 I’m currently deep-diving into **DSA with JavaScript**
+- 🔭 Working on exciting projects like **CheckInn** & **Care Buddy**
+- 💡 Love building solutions that make life easier
+- 📫 How to reach me: **2012prabhat@gmail.com**
 
 ---
 
-## 🛠 Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?logo=mui&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+## 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏨 CheckInn
+Hotel booking platform built with **Next.js**, **MongoDB**, and **Stripe** integration for payments.  
+[🔗 View Project](#) | [💻 Source Code](#)
+
+### 🏥 Care Buddy
+Appointment management app for doctors & patients with separate portals.  
+[🔗 View Project](#) | [💻 Source Code](#)
+
+### 🛒 CartHub
+Shopping admin panel to manage products for e-commerce websites.  
+[🔗 View Project](#) | [💻 Source Code](#)
 
 ---
 
 ## 📊 GitHub Stats
 ![Prabhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=2012prabhat&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2012prabhat&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2012prabhat&layout=compact&theme=radical)
 
 ---
 
-## 🚀 Featured Projects
-[![CheckInn](https://img.shields.io/badge/-CheckInn%20(Hotel%20Booking%20App)-000?style=for-the-badge)](https://github.com/2012prabhat/checkinn)
-[![CartHub](https://img.shields.io/badge/-CartHub%20(Shopping%20Dashboard)-000?style=for-the-badge)](https://github.com/2012prabhat/carthub)
-[![Care Buddy](https://img.shields.io/badge/-Care%20Buddy%20(Appointment%20App)-000?style=for-the-badge)](https://github.com/2012prabhat/care-buddy)
+## 📫 Connect With Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://prabhatkumar.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/2012prabhat)
+[![Email](https://img.shields.io/badge/Email-2012prabhat%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2012prabhat@gmail.com)
 
 ---
 
-## 📬 Let's Connect
-💌 **Email:** 2012prabhat@gmail.com  
-🌐 **Portfolio:** [prabhatkumar.vercel.app](https://prabhatkumar.vercel.app)  
-💼 **LinkedIn:** [linkedin.com/in/2012prabhat](https://www.linkedin.com/in/2012prabhat)
-
----
-
-⭐️ *From [2012prabhat](https://github.com/2012prabhat)*
+💡 *"Code is like humor. When you have to explain it, it’s bad."*
