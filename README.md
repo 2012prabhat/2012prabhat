@@ -44,3 +44,15 @@
 <a href="https://linkedin.com/in/2012prabhat" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://github.com/2012prabhat" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
+
+
+## 📊 GitHub Stats
+![Prabhat's GitHub Streak](https://streak-stats.demolab.com?user=2012prabhat&theme=radical)  
+![Prabhat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=2012prabhat&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2012prabhat&layout=compact&theme=radical)
+
+
+---
+
+## ✨ Fun Fact
+> "First, solve the problem. Then, write the code." – John Johnson
